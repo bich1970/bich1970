@@ -5,7 +5,13 @@ Strawberies
 Apples
 
 MEAT
-suasages
+Sausages
+Bacon
+Lamb
+Beef
+bork
+Rabbit
+
 DAIRY
 
 HOUSEHOLD
